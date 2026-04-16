@@ -6,9 +6,9 @@ export function Logo({ className = "" }: { className?: string }) {
       <Image
         src="/Logo_UpPath.png"
         alt="UpPath logo"
-        width={140}
-        height={44}
-        className="h-10 w-auto object-contain"
+        width={175}
+        height={55}
+        className="h-14 w-auto object-contain"
         priority
       />
     </span>
